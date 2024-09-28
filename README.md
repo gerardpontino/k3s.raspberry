@@ -9,6 +9,10 @@ By [Gerard Pontino](https://medium.com/@gerard.pontino)
 
 Are you curious about Kubernetes and want to experiment with it? Do you have a Raspberry Pi 4's lying around and want to put it to good use? If so, you’re in luck! In this blog, I’ll show you how to build a simple and lightweight Kubernetes cluster using Raspberry Pi 4 with k3s. It’s an affordable and accessible way to explore the world of Kubernetes, without breaking the bank. Let’s get started!
 
+## Topology of our setup
+
+![02](https://github.com/user-attachments/assets/962c242e-df43-443b-8554-fc6ae23014ef)
+
 ## Hardware
 
 3 x Raspberry Pi 4 Model B 4GB
