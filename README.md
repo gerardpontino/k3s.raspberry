@@ -56,13 +56,13 @@ a. Add the hostnames of the nodes in /etc/hosts
 
 To access your nodes using hostnames from your laptop’s terminal and from each node, you need to configure /etc/hosts individually. The steps are the same for all three nodes, so you will need to repeat the process for each one. Once configured, you can easily access each node using its hostname, simplifying the management process and making it easier to connect to your nodes.
 
-\```
-
-vi /etc/hosts
-##Raspberry Cluster Nodes 
-192.168.18.35 k3s-master
-192.168.18.52 worker01
-192.168.18.53 worker02
+\```bash  
+vi /etc/hosts  
+## Raspberry Cluster Nodes  
+192.168.18.35 k3s-master  
+192.168.18.52 worker01  
+192.168.18.53 worker02  
+\``` 
 
 
 ...
