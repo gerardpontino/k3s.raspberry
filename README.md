@@ -15,11 +15,11 @@ Are you curious about Kubernetes and want to experiment with it? Do you have a R
 
 ## Hardware
 
-3 x Raspberry Pi 4 Model B 4GB
-2x Kingston CANVAS Select Plus SD Card 32GB
-52pi Rack Tower Cluster Case
-1x Kingston A400 SSD (240GB)
-TP-Link TLSG108 8-Port gigabit Desktop Switch (You may also use 4-Port Switch)
+- 3 x Raspberry Pi 4 Model B 4GB
+- 2x Kingston CANVAS Select Plus SD Card 32GB
+- 52pi Rack Tower Cluster Case
+- 1x Kingston A400 SSD (240GB)
+- TP-Link TLSG108 8-Port gigabit Desktop Switch (You may also use 4-Port Switch)
 
 ## Step-by-Step Guide
 
